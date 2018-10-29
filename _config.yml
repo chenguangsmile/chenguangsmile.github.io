@@ -19,7 +19,7 @@ repository: chenguangsmile/chenguangsmile.github.io
 github_url: https://github.com/chenguangsmile
 cnblog_url: http://www.cnblogs.com/chenguangsmile
 url: http://www.liyyao.com
-enforce_ssl: chenguangsmile.com
+enforce_ssl: liyyao.com
 
 ## Gem
 plugins:
